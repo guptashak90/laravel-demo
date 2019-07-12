@@ -1,0 +1,23 @@
+label > .red{
+    color:red;
+}
+.error{
+    color:red;
+}
+
+.alert{
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#loader{
+    height: 100%;
+    width:100%;
+    left:0;
+    top:0;
+    text-align: -webkit-center;
+    opacity: .8;
+    padding: 10%;
+}
+
